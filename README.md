@@ -5,7 +5,7 @@
 
 
 ## Dataset: 
-Dataset (Reference:http://www.lastfm.com)
+Dataset (Reference:http://www.lastfm.com).
 data.zip file contains social networking, tagging, and music artist listening information
 from a set of 2K users from Last.fm online music system. http://www.last.fm 
 - There are 1892 users and 17632 artists
